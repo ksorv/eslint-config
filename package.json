@@ -1,0 +1,24 @@
+{
+  "name": "@ksorv/eslint-config",
+  "version": "0.0.1",
+  "description": "The eslint that i like.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksorv/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "ksorv"
+  ],
+  "author": "Saurav Khdoolia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksorv/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ksorv/eslint-config#readme"
+}
